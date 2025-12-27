@@ -44,3 +44,6 @@ The game follows the basic rules of Blackjack, where the goal is to get a score 
 1. Make sure Python is installed:
    ```bash
    python --version
+
+## Game reference 
+https://games.washingtonpost.com/games/blackjack
